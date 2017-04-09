@@ -1,0 +1,3 @@
+
+nba roster 2017
+https://raw.githubusercontent.com/alexnoob/BasketBall-GM-Rosters/master/2016-17.NBA.Roster.json
